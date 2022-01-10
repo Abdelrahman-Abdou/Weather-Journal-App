@@ -2,8 +2,7 @@
 
 ## Description
 
-This project is
-It's an asynchronous web app that compine data from OpenWeatherMap Api and client side (browser)HTML forms to create a web app that records a weather journal for users.
+This project is a Javascript web app. It's an asynchronous web app that compine data from OpenWeatherMap Api and client side (browser)HTML forms to create a web app that records a weather journal for users.
 
 ## Instructions
 To get started the project:
